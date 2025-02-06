@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1738799575 source:c:\users\augus\desktop\c++\firstcommits\ejercicio 3\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<wchar.h>
+	<locale.h>
+	<stdlib.h>
+
